@@ -35,6 +35,6 @@ GSEApy	PyPI	v 1.1.0
 
 snoKARR_map_processing_clustering.ipynb is the notebook used to map snoRNA-non-rRNA interactions and process the chimeric reads for clustering
 
-DG_sim.ipynb is the notebook for DG clustering
+DG_sim.ipynb is the notebook for DG clustering, based on a published work: Zhang et al. 2022 Genome Research (https://github.com/zhipenglu/CRSSANT).
 
 RNAplex_vaRNA_combo.ipynb is the notebook for RNAplex duplex structure prediction and VARNA RNA structure visulization
