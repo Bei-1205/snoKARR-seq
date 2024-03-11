@@ -3,8 +3,6 @@ Scripts to process and analyze snoKARR-seq data
 
 Ref: Liu et al, (2024) "Transcriptome-wide identification of snoRNA-binding targets reveals a non-canonical function of snoRNA in facilitating protein secretion" Submitted
 
-snoKARR_map_processing_clustering.ipynb is the notebook used to map snoRNA-non-rRNA interactions and process the chimeric reads for clustering
-
 Python 		v 3.9.12
 
 numpy	PyPI	v 1.24.3
@@ -35,6 +33,7 @@ biopython	PyPI	v 1.80
 
 GSEApy	PyPI	v 1.1.0
 
+snoKARR_map_processing_clustering.ipynb is the notebook used to map snoRNA-non-rRNA interactions and process the chimeric reads for clustering
 
 DG_sim.ipynb is the notebook for DG clustering
 
