@@ -28,4 +28,4 @@ Ref: Liu et al, (2024) "Transcriptome-wide identification of snoRNA-binding targ
 
 `DG_sim.ipynb` is the notebook for DG clustering, based on a published work: [Zhang et al. 2022 Genome Research](https://genome.cshlp.org/content/early/2022/03/24/gr.275979.121.abstract) (https://github.com/zhipenglu/CRSSANT).
 
-`RNAplex_vaRNA_combo.ipynb` is the notebook for RNAplex duplex structure prediction and VARNA RNA structure visualization
+`RNAplex_vaRNA_combo.ipynb` is the notebook for [RNAplex](https://www.tbi.univie.ac.at/RNA/RNAplex.1.html) duplex structure prediction and [VARNA](https://varna.lisn.upsaclay.fr/index.php?lang=en&page=home&css=varna) RNA structure visualization
