@@ -26,6 +26,6 @@ Ref: Liu et al, (2024) "Transcriptome-wide identification of snoRNA-binding targ
 
 `snoKARR_map_processing_clustering.ipynb` is the notebook used to map snoRNA-non-rRNA interactions and process the chimeric reads for clustering
 
-`DG_sim.ipynb` is the notebook for DG clustering, based on a published work: Zhang et al. 2022 Genome Research (https://github.com/zhipenglu/CRSSANT).
+`DG_sim.ipynb` is the notebook for DG clustering, based on a published work: [Zhang et al. 2022 Genome Research] (https://genome.cshlp.org/content/early/2022/03/24/gr.275979.121.abstract) (https://github.com/zhipenglu/CRSSANT).
 
 `RNAplex_vaRNA_combo.ipynb` is the notebook for RNAplex duplex structure prediction and VARNA RNA structure visualization
