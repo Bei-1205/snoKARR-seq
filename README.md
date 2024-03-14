@@ -6,9 +6,9 @@ Ref: Liu et al, (2024) "Transcriptome-wide identification of snoRNA-binding targ
 | package | source | version |
 |---|---|---|
 |Python| 	-	|v 3.9.12|
-|numpy|	|PyPI|	|v 1.24.3|
-|pandas|	|PyPI|	|v 2.0.2|
-|matplotlib	|PyPI|	|v 3.7.1|
+|numpy	|PyPI|	v 1.24.3|
+|pandas	|PyPI|	v 2.0.2|
+|matplotlib	|PyPI|	v 3.7.1|
 |cigar	|PyPI|	v 0.1.3|
 |pysam	|PyPI|	v 0.21.0|
 |pybedtools	|PyPI|	v 0.9.0|
