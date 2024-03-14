@@ -22,7 +22,7 @@ Ref: Liu et al, (2024) "Transcriptome-wide identification of snoRNA-binding targ
 |GSEApy	|PyPI|	v 1.1.0|
 
 
-snoRNA_rRNA_analysis.ipynb is the notebook used to analyze snoRNA-rRNA interactions
+`snoRNA_rRNA_analysis.ipynb` is the notebook used to analyze snoRNA-rRNA interactions
 
 snoKARR_map_processing_clustering.ipynb is the notebook used to map snoRNA-non-rRNA interactions and process the chimeric reads for clustering
 
