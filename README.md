@@ -3,9 +3,9 @@ Scripts to process and analyze snoKARR-seq data
 
 Ref: Liu et al, (2024) "Transcriptome-wide identification of snoRNA-binding targets reveals a non-canonical function of snoRNA in facilitating protein secretion" Submitted
 
-| Command | Description | version |
+| package | source | version |
 |---|---|---|
-|Python| 		|v 3.9.12|
+|Python| 	-	|v 3.9.12|
 |numpy	|PyPI|	|v 1.24.3|
 |pandas|	|PyPI|	|v 2.0.2|
 |matplotlib	|PyPI|	|v 3.7.1|
