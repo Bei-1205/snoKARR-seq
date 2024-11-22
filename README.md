@@ -1,7 +1,7 @@
 # snoKARR-seq
 Scripts to process and analyze snoKARR-seq data
 
-Ref: Liu et al., SnoRNA-facilitated protein secretion revealed by transcriptome-wide snoRNA target identification. (2024). Cell, in press
+Ref: Liu et al., SnoRNA-facilitated protein secretion revealed by transcriptome-wide snoRNA target identification. (2024). Cell.
 
 | package | source | version |
 |---|---|---|
